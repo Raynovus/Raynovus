@@ -1,6 +1,6 @@
 # Hi, I'm Jon Luerssen
 
-Engineering Technology (Computers) student interested in embedded systems, IoT and AI. My favorite languages are Python, C#, Java and C++.
+Engineering Technology (Computers) graduate interested in embedded systems, IoT and AI. My favorite languages are Python, C#, Java and C++.
 
 ## Featured projects
 
