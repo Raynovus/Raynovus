@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Jon Luerssen
 
-<!--
-**Raynovus/Raynovus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering Technology (Computers) student interested in embedded systems, IoT and AI. My favorite languages are Python, C#, Java and C++.
 
-Here are some ideas to get you started:
+## Featured projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Data Structures & Algorithms in Python](https://github.com/Raynovus/data-structures-algorithms-python)**: ArrayList, LinkedList, Queue, BST, six sorting algorithms and two search algorithms, built from scratch and benchmarked on up to 100,000 records.
+- **[IoT Sensor Physics Experiments](https://github.com/Raynovus/iot-sensor-physics-experiments)**: ESP32, ultrasonic and rotary-encoder experiments with Excel analysis.
+- **[Personal Portfolio Website](https://github.com/Raynovus/website)**: responsive site built with HTML, CSS, JavaScript and Bootstrap.
+
+## Contact
+
+Email: lrsnjonr@gmail.com
